@@ -1,4 +1,4 @@
-  <script>
+sss  <script>
       $(document).ready(function(){
 
           $("#new_row").hide();
